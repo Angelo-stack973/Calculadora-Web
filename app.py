@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Calculadora Web con Python")
+st.title("Calculadora Web")
 
 # Entradas numéricas
 num1 = st.number_input("Ingresa el primer número:", value=0 )
