@@ -3,7 +3,7 @@ import streamlit as st
 st.title("Calculadora Web")
 
 # Entradas numéricas
-num1 = st.number_input("Ingresa el primer número:", value=0 )
+num1 = st.number_input("Ingresa el primer número:")
 num2 = st.number_input("Ingresa el segundo número:", value=0 )
 
 #Botones en horizontal
